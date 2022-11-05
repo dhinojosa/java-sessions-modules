@@ -1,2 +1,7 @@
 **/target
 **/.idea
+modular-lab/myjre/
+**/*.class
+**/*.iml
+**/*.jar
+**/jre-deps.info
